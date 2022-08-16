@@ -1,0 +1,11 @@
+import RPi.GPIO as GPIO
+from datetime import datetime, time, timezone, date
+log_file = "irrigation.txt"
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(17, GPIO.OUT)
+GPIO.setup(22, GPIO.OUT)
+GPIO.output(17, GPIO.LOW)
+GPIO.output(22, GPIO.LOW)
+f = open(log_file, "a")
+f.write("Le Raspberry Pi a redémarré à %s. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve \n" % datetime.now())
+f.close()

@@ -1,0 +1,11 @@
+import RPi.GPIO as GPIO
+from datetime import datetime, time, date, timezone
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(27, GPIO.OUT)
+GPIO.setup(17, GPIO.OUT)
+GPIO.output(27, GPIO.LOW)
+GPIO.output(17, GPIO.LOW)
+log_file = "irrigation.txt"
+f= open(log_file, "a")
+f.write("Valve fermée à: %s \n" % datetime.now())
+f.close()

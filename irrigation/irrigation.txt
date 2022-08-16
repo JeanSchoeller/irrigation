@@ -1,0 +1,183 @@
+Valve fermée à: 2022-04-17 08:35:13.893038 
+Valve ouverte à: 2022-04-17 08:35:19.890709 
+Valve fermée à: 2022-04-17 08:35:33.483126 
+Le Raspberry Pi a redémarrer à 2022-04-17 08:56:32.312460. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Le Raspberry Pi a redémarrer à 2022-04-17 08:56:36.250358. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-04-17 09:07:29.393801 
+Valve fermée à: 2022-04-17 09:07:42.526120 
+Valve ouverte à: 2022-04-17 09:09:54.874881 
+Valve fermée à: 2022-04-17 09:11:27.490839 
+Valve ouverte à: 2022-04-17 21:04:53.439933 
+Valve fermée à: 2022-04-17 21:04:57.959121 
+Valve ouverte à: 2022-04-17 22:00:02.163268 
+Valve fermée à: 2022-04-17 22:10:01.333275 
+Le Raspberry Pi a redémarré à 2022-04-17 22:28:48.399456. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-04-18 06:00:01.986444 
+Valve fermée à: 2022-04-18 06:10:02.154755 
+Le Raspberry Pi a redémarré à 2022-04-18 12:11:12.824434. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Le Raspberry Pi a redémarré à 2022-04-18 12:17:06.283261. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Le Raspberry Pi a redémarré à 2022-04-18 12:17:06.044087. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-04-18 15:31:01.659894 
+Valve fermée à: 2022-04-18 15:32:31.810383 
+Valve ouverte à: 2022-04-18 21:00:01.659076 
+Valve fermée à: 2022-04-18 21:10:01.834582 
+Valve ouverte à: 2022-04-19 06:00:01.691397 
+Valve fermée à: 2022-04-19 06:10:01.866707 
+Valve ouverte à: 2022-04-19 21:00:01.304902 
+Valve fermée à: 2022-04-19 21:10:01.453590 
+Valve ouverte à: 2022-04-20 06:00:02.028874 
+Valve fermée à: 2022-04-20 06:10:01.173505 
+Valve ouverte à: 2022-04-20 21:00:01.390569 
+Valve fermée à: 2022-04-20 21:10:01.566457 
+Valve ouverte à: 2022-04-21 06:00:01.470117 
+Valve fermée à: 2022-04-21 06:10:01.663575 
+Valve ouverte à: 2022-04-21 21:00:02.055105 
+Valve fermée à: 2022-04-21 21:10:01.210174 
+Valve ouverte à: 2022-04-22 06:00:02.147599 
+Valve fermée à: 2022-04-22 06:10:01.318203 
+Valve fermée à: 2022-04-26 20:21:43.554042 
+Message Jean: La valve est reste fermee du 22 au 26 (Forte pluie)
+Le Raspberry Pi a redémarré à 2022-04-26 20:25:08.912385. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-04-26 21:00:01.651976 
+Valve fermée à: 2022-04-26 21:10:01.815417 
+Valve ouverte à: 2022-04-27 06:00:01.724049 
+Valve fermée à: 2022-04-27 06:10:01.880509 
+Valve ouverte à: 2022-04-27 21:00:01.426163 
+Valve fermée à: 2022-04-27 21:10:01.591449 
+Valve ouverte à: 2022-04-28 06:00:01.515116 
+Valve fermée à: 2022-04-28 06:10:01.698342 
+Valve ouverte à: 2022-04-28 21:00:02.120119 
+Valve fermée à: 2022-04-28 21:10:01.302131 
+Valve ouverte à: 2022-04-29 06:00:01.208370 
+Valve fermée à: 2022-04-29 06:10:01.386079 
+Valve ouverte à: 2022-04-29 21:00:01.838699 
+Valve fermée à: 2022-04-29 21:10:02.016371 
+Valve ouverte à: 2022-04-30 06:00:01.957456 
+Valve fermée à: 2022-04-30 06:10:02.151126 
+Le Raspberry Pi a redémarré à 2022-04-30 10:17:06.000459. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Le Raspberry Pi a redémarré à 2022-04-30 13:38:05.352816. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-04-30 14:30:15.988701 
+Valve fermée à: 2022-04-30 14:35:12.201467 
+Le Raspberry Pi a redémarré à 2022-04-30 14:47:14.111354. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-05-01 06:00:02.147274 
+Valve fermée à: 2022-05-01 06:10:01.321671 
+Le Raspberry Pi a redémarré à 2022-05-01 10:27:47.949762. Je lance la configuration initiale pour qu'il n'y est pas de courant dans la valve 
+Valve ouverte à: 2022-05-01 18:14:30.174295 
+Valve fermée à: 2022-05-01 18:14:46.784175 
+Valve ouverte à: 2022-05-02 06:00:01.162113 
+Valve fermée à: 2022-05-02 06:10:01.342602 
+Valve ouverte à: 2022-05-03 06:00:01.576906 
+Valve fermée à: 2022-05-03 06:10:01.757915 
+Valve ouverte à: 2022-05-04 06:00:01.982432 
+Valve fermée à: 2022-05-04 06:10:01.162418 
+Valve ouverte à: 2022-05-05 06:00:01.314493 
+Valve fermée à: 2022-05-05 06:10:01.494148 
+Valve ouverte à: 2022-05-14 23:14:10.397781 
+Valve fermée à: 2022-05-14 23:14:17.251041 
+Valve ouverte à: 2022-05-14 23:14:24.167944 
+Valve fermée à: 2022-05-14 23:14:26.415758 
+Valve ouverte à: 2022-05-14 23:20:39.584598 
+Valve fermée à: 2022-05-14 23:20:45.459840 
+Valve ouverte à: 2022-05-15 09:48:46.057447 
+Valve fermée à: 2022-05-15 09:53:47.879488 
+Valve fermée à: 2022-05-16 09:14:58.890869 (fermeture via app) 
+Valve ouverte à: 2022-05-16 13:02:49.485723 (ouverture via app) 
+Valve ouverte à: 2022-05-16 13:02:51.167332 (ouverture via app) 
+Valve fermée à: 2022-05-16 13:02:54.438862 (fermeture via app) 
+Valve fermée à: 2022-05-16 13:02:55.326929 (fermeture via app) 
+Valve fermée à: 2022-05-16 13:02:58.525992 (fermeture via app) 
+Valve fermée à: 2022-05-16 13:03:07.802121 (fermeture via app) 
+Valve ouverte à: 2022-05-16 13:03:18.375755 (ouverture via app) 
+Valve fermée à: 2022-05-16 13:03:29.239052 (fermeture via app) 
+Valve fermée à: 2022-05-16 13:03:40.769529 (fermeture via app) 
+Valve ouverte à: 2022-05-16 13:03:56.485863 (ouverture via app) 
+Valve fermée à: 2022-05-16 13:04:09.878961 (fermeture via app) 
+Valve fermée à: 2022-05-18 21:36:45.085637 (fermeture via app) 
+Valve fermée à: 2022-05-25 15:25:54.838062 (fermeture via app) 
+Valve fermée à: 2022-05-25 15:25:54.977132 (fermeture via app) 
+Valve ouverte à: 2022-05-25 15:30:26.457686 (ouverture via app) 
+Valve fermée à: 2022-05-25 15:32:48.516606 (fermeture via app) 
+Valve fermée à: 2022-05-26 13:49:36.466438 (fermeture via app) 
+Valve fermée à: 2022-05-26 16:24:27.936545 (fermeture via app) 
+Valve fermée à: 2022-05-26 16:38:35.676407 (fermeture via app) 
+Valve ouverte à: 2022-05-26 16:38:36.506563 (ouverture via app) 
+Valve ouverte à: 2022-05-26 16:42:22.127990 (ouverture via app) 
+Valve fermée à: 2022-05-26 16:42:22.708046 (fermeture via app) 
+Valve ouverte à: 2022-05-26 16:50:55.716566 (ouverture via app) 
+Valve fermée à: 2022-05-26 16:52:57.697169 (fermeture via app) 
+Valve ouverte à: 2022-05-26 21:52:22.216516 (ouverture via app) 
+Valve fermée à: 2022-05-26 21:56:12.656300 (fermeture via app) 
+Valve ouverte à: 2022-05-27 14:58:22.677517 (ouverture via app) 
+Valve fermée à: 2022-05-27 15:17:27.266405 (fermeture via app) 
+Valve fermée à: 2022-05-27 15:24:33.136552 (fermeture via app) 
+Arrosage 5 minutes: 2022-05-27 15:26:35.219544 
+Arrosage 5 minutes: 2022-05-27 16:23:18.617443 
+Valve fermée à: 2022-05-27 18:23:57.672792 (fermeture via app) 
+Valve ouverte à: 2022-05-27 18:23:59.566513 (ouverture via app) 
+Valve fermée à: 2022-05-27 18:33:59.667057 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:33:59.673622 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:33:59.675087 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:33:59.676400 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:33:59.677684 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:33:59.678970 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:33:59.680185 (fermeture via app) 
+Valve ouverte à: 2022-05-27 18:33:59.681820 (ouverture via app) 
+Valve ouverte à: 2022-05-27 18:38:26.530435 (ouverture via app) 
+Valve fermée à: 2022-05-27 18:38:45.240392 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.241328 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.243480 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.244405 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.245272 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.246153 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.246996 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.247844 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.248646 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.249671 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.250609 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.251368 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.252226 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.253066 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.253904 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.254757 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.255684 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:38:45.256532 (fermeture via app) 
+Valve ouverte à: 2022-05-27 18:38:45.260318 (ouverture via app) 
+Valve ouverte à: 2022-05-27 18:39:23.504376 (ouverture via app) 
+Valve fermée à: 2022-05-27 18:39:25.423918 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:39:25.425406 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:39:25.426722 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:39:25.428024 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:39:25.429362 (fermeture via app) 
+Valve fermée à: 2022-05-27 18:39:37.059710 
+Valve ouverte à: 2022-05-27 18:41:10.061891 (ouverture via app) 
+Valve fermée à: 2022-05-27 18:41:31.160523 (fermeture via app) 
+Arrosage 5 minutes: 2022-05-28 07:52:53.696859 
+Valve fermée à: 2022-05-28 07:52:53.700840 (fermeture via app) 
+Valve fermée à: 2022-05-28 07:52:53.702271 (fermeture via app) 
+Valve fermée à: 2022-05-28 07:52:53.703611 (fermeture via app) 
+Valve fermée à: 2022-05-28 07:52:53.704940 (fermeture via app) 
+Valve ouverte à: 2022-05-28 07:52:53.706261 (ouverture via app) 
+Valve fermée à: 2022-05-28 07:52:53.707719 (fermeture via app) 
+Valve fermée à: 2022-05-28 07:52:53.709016 (fermeture via app) 
+Valve fermée à: 2022-05-28 07:52:53.710387 (fermeture via app) 
+Valve fermée à: 2022-05-28 07:52:53.711588 (fermeture via app) 
+Valve fermée à: 2022-05-28 10:16:30.386286 (fermeture via app) 
+Valve ouverte à: 2022-05-28 10:16:36.806279 (ouverture via app) 
+Valve fermée à: 2022-05-28 10:16:37.686408 (fermeture via app) 
+Arrosage 5 minutes: 2022-05-28 14:53:35.689517 
+Arrosage 5 minutes: 2022-05-28 17:45:28.259540 
+Valve ouverte à: 2022-05-30 20:10:18.205630 (ouverture via app) 
+Valve fermée à: 2022-05-30 20:12:40.541716 (fermeture via app) 
+Valve fermée à: 2022-05-30 20:12:47.577331 (fermeture via app) 
+Valve fermée à: 2022-05-30 23:11:35.736919 (fermeture via app) 
+Valve fermée à: 2022-05-31 12:51:09.014385 (fermeture via app) 
+Valve ouverte à: 2022-05-31 12:51:12.047443 (ouverture via app) 
+Valve fermée à: 2022-05-31 12:51:27.466534 (fermeture via app) 
+Valve fermée à: 2022-05-31 12:51:30.040492 (fermeture via app) 
+Valve fermée à: 2022-05-31 13:14:42.481137 (fermeture via app) 
+Arrosage 5 minutes: 2022-05-31 18:44:25.059547 
+Valve ouverte à: 2022-06-11 12:41:42.877856 (ouverture via app) 
+Valve fermée à: 2022-06-11 12:41:44.797438 (fermeture via app) 
+Valve ouverte à: 2022-06-14 15:20:54.873400 
+Valve fermée à: 2022-06-14 15:21:16.288573 
+Arrosage 5 minutes: 2022-06-19 21:40:08.677924 
